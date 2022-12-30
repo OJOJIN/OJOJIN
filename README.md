@@ -6,7 +6,7 @@
 
 - 🖥️ I major in Dept. of Software
 - 🌱 I’m currently learning `kotlin`, `spring`
-- 🏠 I live in Suwon, Gyeongsangnam-do in Korea
+- 🏠 I live in Suwon, Gyeonggi-do in Korea
 
 ### Experience
 
