@@ -11,5 +11,5 @@
 ### Experience
 
 - 🎓 Gachon University , Software (2019.03 ~ )
-- 🔥 UMC 3th, Android part (2022.09 ~ 2022.12)
+- 🔥 UMC 3th Android (2022.09 ~ 2022.12)
 
