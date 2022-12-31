@@ -2,7 +2,9 @@
 
 ### Who Am I
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ojy101039">
+<a href="https://solved.ac/profile/ojy101039">
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ojy101039">
+</a>
 
 - 🖥️ I major in Dept. of Software
 - 🌱 I’m currently learning `kotlin`, `spring`
