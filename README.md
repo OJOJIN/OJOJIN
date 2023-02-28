@@ -3,7 +3,7 @@
 ### Who Am I
 
 <a href="https://solved.ac/profile/ojy101039">
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhhuns2000">
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ojy101039">
 </a>
 
 - 🖥️ I major in Dept. of Software
