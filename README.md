@@ -14,3 +14,4 @@
 - 🏫 Gachon University , Software (2019.03 ~ )
 - 🔥 UMC 3th Android (2022.09 ~ 2022.12)
 - 🌱 Modugarden, Android (2022.12 ~ 2023.02)
+- 🌐 KUSITMS 28th, Backend (2023.08 ~ )
